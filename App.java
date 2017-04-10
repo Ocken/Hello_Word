@@ -12,4 +12,8 @@ public class App {
 		problem.trainNetwork();
 		
 	}
+	
+	public static double sum(double x1, double x2) {
+		return x1 + x2;
+	}
 }
